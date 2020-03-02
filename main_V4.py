@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
-# @Time    : 2018/11/16 13:34
-# @Author  : xuzy
-# @Email   : 451875565@qq.com
+# @Time    : 
+# @Author  : 
+# @Email   : 
 # @File    : main.py
 # @Software: PyCharm
 # @Function:
